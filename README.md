@@ -6,6 +6,6 @@ Ola, este repositório contem uma tela de um aplicativo de compras desenvolvido 
 ![image](https://user-images.githubusercontent.com/92764886/184673540-0c896846-0b51-487e-adf7-c0c0ce2d4462.png)
 
 
-Documentação React-native !["Aqui"](https://reactnative.dev/)
+Documentação React-native [Aqui](https://reactnative.dev/)
 Repositório da instrutora com passo a passo: https://github.com/nataliakt/alura-react-native-comecando-do-zero
 
